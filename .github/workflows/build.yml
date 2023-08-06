@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Something safe
-        run: echo "Hello, world!"
+      - name: Something evil
+        run: echo "Hello, world! This is evil!"
